@@ -3,11 +3,13 @@ title: Animal Swagger
 subtitle: Quizzes & Facts about ANIMALS!!!
 image: img/budgie-check-list.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: What is AnimalSwagger.com?
+  text: " AnimalSwagger.com is a website where you can read about the website
+    (which you are reading right now), read about me, learn facts about animals,
+    and take a personality quiz about things like what animal you are or what
+    dog breed you are. If you go to the facts page, you can read facts about an
+    animal. If you go to the quizzes page, you can take a personality quiz about
+    animals. I hope you enjoy!"
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
