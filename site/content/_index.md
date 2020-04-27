@@ -3,7 +3,7 @@ title: Animal Swagger
 subtitle: Quizzes & Facts about ANIMALS!!!
 image: img/budgie-check-list.jpg
 blurb:
-  heading: What is AnimalSwagger.com?
+  heading: What is Animal Swagger?
   text: " AnimalSwagger.com is a website where you can read about the website
     (which you are reading right now), read about me, learn facts about animals,
     and take a personality quiz about things like what animal you are or what
